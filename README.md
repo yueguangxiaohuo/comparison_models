@@ -8,7 +8,7 @@
 ## Available Algorithms
 | **Algorithm**      |                                **Paper Title**                                 |     **Journal**     | **Year** |
 |:-------------------|:------------------------------------------------------------------------------:|:-------------------:|:---------|
-| [SPCT](./SPCT)[^1] | A generalizable framework for low-rank tensor completion with numerical priors | Pattern Recognition | 2024.11  |
+| [SPTC](./SPTC)[^1] | A generalizable framework for low-rank tensor completion with numerical priors | Pattern Recognition | 2024.11  |
 ## Reference
 
 [//]: # (Use APA reference style below)
