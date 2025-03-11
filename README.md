@@ -6,10 +6,10 @@
 ⦿ It serves as a repository for comparison models, where some of the contrastive models from papers have been replicated.
 
 ## Available Algorithms
-| **Algorithm**            |                                            **Paper Title**                                             |         **Journal**          | **Year**      |
-|:-------------------------|:------------------------------------------------------------------------------------------------------:|:----------------------------:|:--------------|
-| [SPTC](./SPTC)[^1]       |             A generalizable framework for low-rank tensor completion with numerical priors             |     Pattern Recognition      | 2024.11 <br/> |
-| [NT-DPTC](./NT-DPTC)[^2] | A non-negative temporal dimension preserved tensorcompletion model for missing traffic data imputation |     Information Sciences     | 2024 <br/>    |
+| **Algorithm**                   |                                            **Paper Title**                                             |         **Journal**          | **Year**      |
+|:--------------------------------|:------------------------------------------------------------------------------------------------------:|:----------------------------:|:--------------|
+| [SPTC](./SPTC_LiuQian)[^1]      |             A generalizable framework for low-rank tensor completion with numerical priors             |     Pattern Recognition      | 2024.11 <br/> |
+| [NT-DPTC](./NT-DPTC_LiuHua)[^2] | A non-negative temporal dimension preserved tensorcompletion model for missing traffic data imputation |     Information Sciences     | 2024 <br/>    |
 ## Reference
 
 [//]: # (Use APA reference style below)
